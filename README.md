@@ -1,4 +1,4 @@
-# Baseball-Data-EDA-Analysis
+# Basketball-Data-EDA-Analysis
 DOMAIN: Sports
 
 CONTEXT: Company X manages the men's top professional basketball division
